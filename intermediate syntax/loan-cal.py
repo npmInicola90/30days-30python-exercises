@@ -11,7 +11,6 @@ owed_money = n * (1 + r_n)
 year_worth = owed_money / t 
 monthly_payment = year_worth / 12
  
-print("the amount of money you will totally have to pay is ", owed_money)
 print("the amount of money you will have to pay yearly is ", year_worth)
 print("the amount of money you will have to pay monthly is ", monthly_payment)
 
